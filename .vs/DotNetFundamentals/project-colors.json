@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9bac9ea-9c3d-4144-89a7-6a340ea185d0": {
+      "ProjectGuid": "b9bac9ea-9c3d-4144-89a7-6a340ea185d0",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "40d0dff3-3d33-43af-a092-448c532cc97b": {
+      "ProjectGuid": "40d0dff3-3d33-43af-a092-448c532cc97b",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 1
+    },
+    "7c35006b-65ba-462e-92b5-1a37d41e1f66": {
+      "ProjectGuid": "7c35006b-65ba-462e-92b5-1a37d41e1f66",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 2
+    },
+    "1c8d0592-9ded-42a3-950c-eb8ce5e291e3": {
+      "ProjectGuid": "1c8d0592-9ded-42a3-950c-eb8ce5e291e3",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 3
+    },
+    "7ae5c485-1cfe-4719-ab98-1515e5fdad6e": {
+      "ProjectGuid": "7ae5c485-1cfe-4719-ab98-1515e5fdad6e",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 4
+    },
+    "9eb4a797-af45-4f61-94dd-bf8e6f790a5d": {
+      "ProjectGuid": "9eb4a797-af45-4f61-94dd-bf8e6f790a5d",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 5
+    },
+    "06886546-634b-4cbe-a57d-0fffc41865d7": {
+      "ProjectGuid": "06886546-634b-4cbe-a57d-0fffc41865d7",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
