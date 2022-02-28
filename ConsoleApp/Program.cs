@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿using ConcatetionLogicLibrary;
 
 Console.Write("Enter username: ");
 var username = Console.ReadLine();

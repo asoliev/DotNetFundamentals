@@ -1,3 +1,4 @@
+using ConcatetionLogicLibrary;
 namespace WinFormsApp1
 {
     public partial class UserInteractiveForm : Form
@@ -11,7 +12,10 @@ namespace WinFormsApp1
         {
             string username = textBox_username.Text;
             if (!string.IsNullOrWhiteSpace(username))
-                MessageBox.Show($"Hello {username}");
+            {
+                ConcatetionLogic library = new(username);
+                MessageBox.Show(library.Output());
+            }
         }
     }
 }

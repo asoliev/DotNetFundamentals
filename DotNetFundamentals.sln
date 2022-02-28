@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp1\ConsoleApp.csproj", "{B9BAC9EA-9C3D-4144-89A7-6A340EA185D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{B9BAC9EA-9C3D-4144-89A7-6A340EA185D0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp", "WinFormsApp1\WinFormsApp.csproj", "{1C8D0592-9DED-42A3-950C-EB8CE5E291E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInteractiveForm", "UserInteractiveForm\UserInteractiveForm.csproj", "{1C8D0592-9DED-42A3-950C-EB8CE5E291E3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatetionLogicLibrary", "ConcatetionLogicLibrary\ConcatetionLogicLibrary.csproj", "{06886546-634B-4CBE-A57D-0FFFC41865D7}"
 EndProject
