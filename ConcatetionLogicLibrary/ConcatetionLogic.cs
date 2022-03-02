@@ -4,15 +4,9 @@ namespace ConcatetionLogicLibrary
 {
     public class ConcatetionLogic
     {
-        private string username;
-        public ConcatetionLogic(string username)
+        public string Output(string input)
         {
-            this.username = username;
-        }
-
-        public string Output()
-        {
-            return $"{DateTime.Now} Hello, {username}";
+            return $"{DateTime.Now} {input}";
         }
     }
 }

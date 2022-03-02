@@ -13,8 +13,21 @@ namespace WinFormsApp1
             string username = textBox_username.Text;
             if (!string.IsNullOrWhiteSpace(username))
             {
-                ConcatetionLogic library = new(username);
-                MessageBox.Show(library.Output());
+                ConcatetionLogic library = new();
+                MessageBox.Show(library.Output(username));
+            }
+            else
+            {
+                DialogResult dialogResult = MessageBox.Show("Enter valid username.", "Invalid input",
+                    MessageBoxButtons.RetryCancel, MessageBoxIcon.Exclamation);
+                if (dialogResult == DialogResult.Cancel)
+                {
+                    Application.Exit();
+                }
+                else
+                {
+                    textBox_username.Focus();
+                }
             }
         }
     }
