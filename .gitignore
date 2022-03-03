@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/DotNetFundamentals/DesignTimeBuild/.dtbcache.v2
+.vs/DotNetFundamentals/v17/.futdcache.v1
+.vs/DotNetFundamentals/v17/.suo
